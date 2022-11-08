@@ -443,6 +443,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .img_project{
   height: 200px;
+  object-fit: cover;
 }
 .proj-imgbx:hover .proj-txtx {
   top: 50%;

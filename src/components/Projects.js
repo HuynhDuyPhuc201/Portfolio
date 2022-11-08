@@ -25,12 +25,6 @@ export const Projects = () => {
       URL: "https://wooder-five.vercel.app/"
     },
     {
-      title: "G-Box",
-      description: "Design & Development",
-      imgUrl: gbox,
-      URL: "https://g-box.vercel.app/"
-    },
-    {
       title: "SPEEDy CAR",
       description: "Design & Development",
       imgUrl: speedy,
@@ -41,6 +35,12 @@ export const Projects = () => {
       description: "Design & Development",
       imgUrl: shop,
       URL: "https://dpshop.vercel.app/"
+    },
+    {
+      title: "G-Box",
+      description: "Design & Development",
+      imgUrl: gbox,
+      URL: "https://g-box.vercel.app/"
     },
   ];
 
